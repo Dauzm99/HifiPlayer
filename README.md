@@ -31,4 +31,3 @@ A modern, high-performance Android music player designed for audiophiles, featur
 - Implemented a background downloader with **WorkManager** and **HiltWorker**, featuring automated metadata tagging and high-bitrate stream selection.
 - Leveraged the **Palette API** to create a dynamic Material 3 UI that adapts its theme to the current track's album art.
 - Managed local data persistence and playlists using **Room**, while supporting scoped storage through the **Storage Access Framework**.
-# HifiPlayer
